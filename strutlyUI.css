@@ -156,3 +156,10 @@ listening to our top 5 spotify playlist.
 .bg-darkkhaki{
     background-color: #BDB76B;
 }
+
+.d-grid{
+  display: grid;
+}
+.d-flex{
+  display: flex;
+}
